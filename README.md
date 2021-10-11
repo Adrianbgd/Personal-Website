@@ -1,1 +1,2 @@
-# Adrian Bogdan Personal-Website
+# Adrian Bogdan Personal Website
+Mobile version coming soon
