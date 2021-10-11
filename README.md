@@ -1,2 +1,2 @@
-# Adrian Bogdan Personal Website
-Mobile version coming soon
+# Personal-Website
+Mobile version not implemented yet
